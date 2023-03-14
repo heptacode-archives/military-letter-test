@@ -15,5 +15,12 @@ export const trainees: Trainee[] = [
     enterDate: '2023-02-13',
     startDate: '2023-02-18',
     endDate: '2023-03-26',
+  },
+  {
+    name: '하승오',
+    birthDate: '1998-09-24',
+    enterDate: '2023-03-09',
+    startDate: '2023-03-14',
+    endDate: '2023-03-30',
   }
 ];
