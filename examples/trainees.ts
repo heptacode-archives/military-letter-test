@@ -2,25 +2,24 @@ import { Trainee } from '@heptacode/military-letter';
 
 export const trainees: Trainee[] = [
   {
-    name: '임성우',
-    unit: '1사단',
-    birthDate: '2002-10-10',
-    enterDate: '2023-02-13',
-    startDate: '2023-02-18',
-    endDate: '2023-03-26',
+    name: '배준수',
+    birthDate: '2002-03-15',
+    enterDate: '2023-06-05',
+    startDate: '2023-06-15',
+    endDate: '2023-07-10',
   },
   {
-    name: '김정우',
-    birthDate: '2002-12-13',
-    enterDate: '2023-02-13',
-    startDate: '2023-02-18',
-    endDate: '2023-03-26',
+    name: '한원석',
+    birthDate: '2002-06-06',
+    enterDate: '2023-06-05',
+    startDate: '2023-06-15',
+    endDate: '2023-07-10',
   },
   {
-    name: '하승오',
-    birthDate: '1998-09-24',
-    enterDate: '2023-03-09',
-    startDate: '2023-03-14',
-    endDate: '2023-03-30',
+    name: '권태헌',
+    type: '공군',
+    birthDate: '2002-04-29',
+    startDate: '2023-06-15',
+    endDate: '2023-07-10',
   }
 ];
